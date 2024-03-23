@@ -1,15 +1,18 @@
-#Road Accident Dashboard
-##Overview
-This repository contains a Power BI dashboard focused on visualizing road accident data. The dashboard aims to provide insights into various aspects of road accidents, including but not limited to:
+# Road Accident Dashboard
 
-Accident locations
-Types of accidents
-Time trends
-Severity of accidents
-Contributing factors
-Features
-Interactive Visualizations: The dashboard offers interactive visualizations to explore different dimensions of road accidents easily.
-Filters and Slicers: Users can filter data based on various parameters such as location, time, accident severity, and more using slicers and filters.
-Geospatial Analysis: Utilizing maps, the dashboard provides geospatial analysis to visualize accident hotspots and distribution.
-Trend Analysis: Time series analysis allows users to identify trends and patterns in accident occurrences over time.
-Data Exploration: Users can drill down into the data to gain deeper insights into specific aspects of road accidents.
+This repository contains a Power BI dashboard project aimed at analyzing and visualizing road accident data.
+
+## Introduction
+
+Road accidents are a significant concern globally, resulting in injuries, fatalities, and economic losses. This dashboard provides insights into road accident data to help stakeholders understand patterns, identify risk factors, and formulate strategies for prevention and mitigation.
+
+## Features
+
+- **Interactive Visualizations**: Explore data through interactive charts, graphs, and maps.
+- **Filtering and Slicing**: Analyze data by filtering based on various attributes like date, location, severity, etc.
+- **Trend Analysis**: Identify trends and patterns over time to understand accident dynamics.
+- **Geospatial Analysis**: Visualize accident locations on maps to identify high-risk areas.
+- **Data Driven Insights**: Extract actionable insights from the data to inform decision-making.
+
+  [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMjRkYzkzOTItOTBmMy00ZGRkLWFlNmQtMjkwY2VkNTZkYzUyIiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI4ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D)
+
