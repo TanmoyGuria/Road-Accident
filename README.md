@@ -16,3 +16,5 @@ Road accidents are a significant concern globally, resulting in injuries, fatali
 
   [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMjRkYzkzOTItOTBmMy00ZGRkLWFlNmQtMjkwY2VkNTZkYzUyIiwidCI6ImJhZDEyODY0LTkxM2UtNGI5OS04N2Q2LWI4ZDJhZDQ1OWUyNyIsImMiOjEwfQ%3D%3D)
 
+<img width="656" alt="Screenshot 2024-03-24 003647" src="https://github.com/TanmoyGuria/Road-Accident/assets/127241879/db830cf9-95cc-45de-8d14-91ae35392c0c">
+
